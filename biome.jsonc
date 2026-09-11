@@ -11,6 +11,7 @@
 		"includes": [
 			"**",
 			"!**/src/**/*.css",
+			"!**/src/content",
 			"!!**/src/public",
 			"!!**/dist",
 			"!!**/node_modules",
