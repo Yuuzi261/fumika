@@ -10,10 +10,10 @@
 請在本頁面留言，格式如下：
 
 ```
-title : name's Blog
-desc  : name's personal blog
-url   : https://blog.name.my.id
-icon  : https://blog.name.my.id/media/images/avatar.webp
+title : Yuuzi's Blog
+desc  : Yuuzi's personal blog
+url   : https://blog.yuuzi.cc
+icon  : https://blog.yuuzi.cc/media/images/avatar.webp
 ```
 
 驗證通過後，我會盡快將你的連結添加到此頁面 ヽ( ° ▽°)ノ
