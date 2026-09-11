@@ -1,18 +1,19 @@
-# About
+# 關於
 
-### Popular Repositories
+### 熱門儲存庫
 
 ::github{repo="Yuuzi261/Tweetcord"}
-::github{repo="Yuuzi261/BA-Character-Rating"}
 ::github{repo="Yuuzi261/BA-Gift-Planner"}
+::github{repo="Yuuzi261/BA-Character-Rating"}
 ::github{repo="Yuuzi261/AutoFx"}
-::github{repo="Yuuzi261/EchordMind"}
 
-### Contributed Repositories
+### 貢獻的儲存庫
 
 ::github{repo="maxhu08/mtab"}
 ::github{repo="FuseFairy/HBR-AxleTool-vue"}
 ::github{repo="FuseFairy/github-profile-repo-analytics"}
+::github{repo="U-CLIMAX/TCGToolWS"}
+::github{repo="CialloKing/ba-click-fx"}
 
 > ### Sources of images used in this site
 >
