@@ -36,7 +36,10 @@ export const ALL_LANGUAGES = [
 	"zh-TW",
 ] as const;
 
-export const DEFAULT_LANG: SupportedLang = siteConfig.lang as SupportedLang;
+export const DEFAULT_LANG: SupportedLang = siteConfig.lang.replace(
+	"_",
+	"-",
+) as SupportedLang;
 
 const baseLangs =
 	siteConfig.supportedLangs && siteConfig.supportedLangs.length > 0

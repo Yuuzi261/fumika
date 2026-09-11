@@ -36,6 +36,7 @@ import { remarkRuby } from "./src/plugins/remark-ruby.mjs";
 export default defineConfig({
 	site: deployConfig.siteUrl,
 	base: deployConfig.baseUrl,
+	trailingSlash: "always",
 	integrations: [
 		swup({
 			theme: false,
