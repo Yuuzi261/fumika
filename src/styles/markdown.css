@@ -137,23 +137,15 @@
 
 	table {
 		@apply w-full border-collapse my-4;
-		overflow-x: auto;
-		display: block;
-		white-space: nowrap;
 	}
 
 	th,
 	td {
-		@apply border border-(--line-color) px-3 py-2 text-left;
-		min-width: 120px;
+		@apply border-b border-(--line-color) px-3 py-2 text-left;
 	}
 
 	th {
 		@apply bg-(--btn-regular-bg) font-semibold text-(--btn-content);
-	}
-
-	td {
-		@apply bg-(--card-bg);
 	}
 
 	tr:nth-child(even) td {
