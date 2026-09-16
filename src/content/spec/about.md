@@ -9,7 +9,9 @@
 
 ### 貢獻的儲存庫
 
+::github{repo="keleus/BewlyCat"}
 ::github{repo="maxhu08/mtab"}
+::github{repo="Lieyuan621/Endaxis"}
 ::github{repo="FuseFairy/HBR-AxleTool-vue"}
 ::github{repo="FuseFairy/github-profile-repo-analytics"}
 ::github{repo="U-CLIMAX/TCGToolWS"}
