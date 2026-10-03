@@ -1,7 +1,7 @@
 ---
-title: 踩坑記錄：在 VMware 上跑 Arch Linux + Hyprland
+title: 在 VMware 上跑 Arch Linux + Hyprland：安裝與除錯記錄
 published: 2026-10-02
-description: 包含安裝過程、簡易的設定檔配置以及 Windows、VMware、Arch Linux 以及 Hyprland 四方的化學反應
+description: 包含安裝過程、簡易的設定檔配置以及 Windows、VMware、Arch Linux 以及 Hyprland 產生的神秘化學反應，還不如搞個雙系統ㅍ_ㅍ。
 image: ""
 tags: ['Arch Linux', Hyprland, Installation, 'VMware']
 category: Notes
